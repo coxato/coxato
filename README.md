@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Martinez</h1>
 <h3 align="center">JavaScript Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [Kanbon](https://kanbon.at/)
+- 🔭 I’m currently working at [Kanbon](https://kanbon.at/)
 
 - 💬 Ask me about **react, javascript, guitar**
 
